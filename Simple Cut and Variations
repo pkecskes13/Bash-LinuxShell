@@ -11,3 +11,10 @@ cut -c 3
 # from each line of standard input.
 
 cut -c 2,7
+
+#!/bin/bash
+
+# Extract and display the second through seventh characters
+# from each line of standard input.
+
+cut -c 2-7
