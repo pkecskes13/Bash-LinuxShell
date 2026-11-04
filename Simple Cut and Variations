@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Print the third character from each input line
+
+cut -c 3
+
+
+#!/bin/bash
+
+# Extract the second and seventh characters
+# from each line of standard input.
+
+cut -c 2,7

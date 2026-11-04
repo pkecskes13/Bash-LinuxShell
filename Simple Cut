@@ -1,5 +1,0 @@
-#!/bin/bash
-
-# Print the third character from each input line
-
-cut -c 3
